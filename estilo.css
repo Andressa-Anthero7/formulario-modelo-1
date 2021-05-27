@@ -5,7 +5,7 @@ Estilizando formulários parte 2 */
 
 body{
 	font-family: "Trebuchet",Helvetica,sans-serif;
-	background: #643d87 url(../imagens/fundo.jpg) no-repeat top center;	
+	background: #643d87 url(fundo.jpg) no-repeat top center;	
 }
 
 #conteiner{
@@ -40,12 +40,12 @@ input{
 }
 
 input.email{
-	background-image: url(../imagens/icone-usuario.png);
+	background-image: url(icone-usuario.png);
 
 }
 
 input.senha{
-	background-image: url(../imagens/icone-cadeado.png);
+	background-image: url(icone-cadeado.png);
 }
 
 input.submit{
